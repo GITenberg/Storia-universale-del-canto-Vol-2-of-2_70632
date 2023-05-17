@@ -1,0 +1,32 @@
+_repo: Storia-universale-del-canto-Vol-2-of-2_70632
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fantoni, Gabriele
+    birthdate: 1833
+    deathdate: 1913
+    gutenberg_agent_id: '55835'
+    url: http://www.gutenberg.org/2009/agents/55835
+description: ''
+gutenberg_issued: '2023-04-23'
+identifiers:
+  gutenberg: '70632'
+language: it
+pgterms:marc904: https://www.digitale-sammlungen.de/en/view/bsb11162057?page=,1  https://www.digitale-sammlungen.de/en/view/bsb11162058?page=1
+pgterms:marc905: 20211102093945fantoni
+pgterms:marc906: '1873'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This transcription was produced from images generously made available by Bayerische
+  Staatsbibliothek / Bavarian State Library.)
+publication_note: '  $aItaly :$bBattezzati, $c1873.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Singers'
+- !lcsh 'Vocal music -- History and criticism'
+- !lcc 'ML'
+- GITenberg
+title: Storia universale del canto, Vol. 2 (of 2)
+url: http://www.gutenberg.org/ebooks/70632
